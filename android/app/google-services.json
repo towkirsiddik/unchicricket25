@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916756813662",
+    "project_id": "unchi-cricket",
+    "storage_bucket": "unchi-cricket.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916756813662:android:7dfb40099b0dc7bb7261cf",
+        "android_client_info": {
+          "package_name": "com.example.unchi_cricket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcKtEDWNP4u82_alCmXgTHmX1-u5QQpNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
